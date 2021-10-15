@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GrumpyRobot21
-- 👀 I’m interested in learning to Code and change my career
-- 🌱 I’m currently learning HTML/CSS/JAVASCRIPT plus learning abourt Agile, AWS, Node.js and LAMPstack. Just to begin with....
-- 💞️ I’m looking to collaborate on anything and everything where I am able to ask questions and learn stuff.
+- 👋 Hi, I’m Keith
+- 👀 I’m learning to Code in order to facilitate a creer change.
+- 🌱 I’m currently learning to write HTML/CSS/JAVASCRIPT plus learning about Agile, AWS, Node.js and LAMPstack. Just to begin with....
+- 💞️ I’m looking to collaborate on anything and everything where I am able to ask questions and learn more stuff.
 - 📫 How to reach me 
 
 <!---
