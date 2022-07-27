@@ -25,25 +25,30 @@ I am in the process of acquiring knowledge in:
 
 
 I also have over 25 years of complimentary experience in board level relationship management and communication (UK & Europe), Strategic planning and business development, Internet technologies, Internet hosting and security, IT training, development and education plus customer service and support. 
+
+You can reach me here: 
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/kmillar/)
 ***
-## **Code Institute Milestone Projects
+## **Code Institute Milestone Projects**
 
 As part of my Code Institute Diploma course I built the following the projects:
 
-| Milestone No.   | Project | Description | Grade | 
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 | <p><a href="https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials"><img src="https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials/blob/main/assets/images/WebLife-screencap.png"></a></p><p>WebLife</p> | <p>. | Merit |
+1. [WebLife Digital Legacy Management](https://grumpyrobot21.github.io/WebLife---Portfolio-Project-1---HTML-CSS-Essentials/)
 
+<p><a href="https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials"><img src="https://github.com/GrumpyRobot21/WebLife---Portfolio-Project-1---HTML-CSS-Essentials/blob/main/assets/images/WebLife-screencap.png"></a></p> This web application has been developed in order to stimulate discussion around the topic of what happens to our online data after we are no longer around to look after it. The website represents a fictional consultancy that offers to manage clients digital legacies prior to and in the event of their deaths.
 
-
+<!-- ![Screencapture](WebLife-screencap.png) -->
 ***
 ## **Code Institute Hackathons**
 
 I have participated in the following code institute hackathons. I found these to be a fabulous learning experience and really good fun. It was great ot be able to collaborate with other developers as part of a team to produce a project within a set deadline. It has also been a great introduction to the use of the Agile methodology and to see it in action.
 
 
+
+
 ***
-You can reach me here: [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/kmillar/)
+
 
 
 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
