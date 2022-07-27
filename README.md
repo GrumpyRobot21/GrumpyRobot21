@@ -61,6 +61,6 @@ I have participated in the following code institute hackathons. I found these to
 
 
 
-![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter)
+![](https://komarev.com/ghpvc/?username=GrumpyRobot21&color=blue&style=plastic&label=PROFILE+VIEWS)
 
 
