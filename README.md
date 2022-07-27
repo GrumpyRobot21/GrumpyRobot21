@@ -45,7 +45,7 @@ As part of my Code Institute Diploma course I built the following the projects:
 ***
 ## **Code Institute Hackathons**
 
-I have participated in the following code institute hackathons. I found these to be a fabulous learning experience and really good fun. It was great to be able to collaborate with other developers as part of a team to produce a project within a set deadline. It has also been a great introduction to the use of the Agile methodology and to see it in action.
+I have participated in the following code institute hackathons. These were a fabulous learning experience and really good fun. It was great to be able to collaborate with other developers as part of a team to produce a project within a set deadline. It has also been a great introduction to the use of the Agile methodology.
 
 - July 2022 Hackathon []
 
