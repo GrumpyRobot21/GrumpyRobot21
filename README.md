@@ -49,6 +49,11 @@ I have participated in the following code institute hackathons. I found these to
 
 - July 2022 Hackathon []
 
+| Date, Theme & Organiser   | Hackathon Project | Place |
+| :--------: | :-----------: | :--------------: |
+| <p>June 2022:</p><p>World Emoji Day 2022 Hackathon.</p><p>Code Institute</p> | <p><a href="https://github.com/GrumpyRobot21/Catchmoji"><img src="https://github.com/GrumpyRobot21/Catchmoji/blob/main/assets/images/project-screenshot.png" width=800px></a></p><p>CatchMoji!</p>| <a href="https://api.eu.badgr.io/public/assertions/6xvdaYeuTyuULGuBRkvsPg"><img src="https://api.eu.badgr.io/public/assertions/6xvdaYeuTyuULGuBRkvsPg/image"></a> |
+|
+
 
 
 
