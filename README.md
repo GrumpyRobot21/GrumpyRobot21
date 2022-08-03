@@ -32,7 +32,7 @@ You can reach me here:
 ***
 ## **Code Institute Milestone Projects**
 
-As part of my Code Institute Diploma course I have built the following projects. These were challenging but gave me a great way to use the code that I have been learning throughout the course:
+As part of my Code Institute Diploma I have created the following projects. These were challenging but gave me a great way to use the coding skills introduced throughout studies:
 
 1. 
 
