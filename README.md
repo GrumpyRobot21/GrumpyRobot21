@@ -44,14 +44,20 @@ As part of my Code Institute Diploma I have created the following projects. Thes
 ***
 ## **Code Institute Hackathons**
 
-I have participated in the following code institute hackathons. These were a fabulous learning experience and really good fun. It was great to be able to collaborate with other developers as part of a team to produce a project within a set deadline. It has also been a great introduction to the use of the Agile methodology.
+I have participated in the following code institute hackathons. These were a fabulous learning experience and really good fun. It was great to be able to collaborate with other developers as part of a team to produce a project within a set deadline. It has also been a great introduction to the use of the Agile methodology, pull requests and merges.
 
-- July 2022 Hackathon []
+- July 2022 Hackathon [World Emoji Day]
 
 | Date, Theme & Organiser   | Hackathon Project | Place |
 | :--------: | :-----------: | :--------------: |
 | <p>June 2022:</p><p>World Emoji Day 2022 Hackathon.</p><p>Code Institute</p> | <p><a href="https://github.com/GrumpyRobot21/Catchmoji"><img src="https://github.com/GrumpyRobot21/Catchmoji/blob/main/assets/images/project-screenshot.png" width=800px></a></p><p>CatchMoji!</p>| <a href="https://api.eu.badgr.io/public/assertions/6xvdaYeuTyuULGuBRkvsPg"><img src="https://api.eu.badgr.io/public/assertions/6xvdaYeuTyuULGuBRkvsPg/image"></a> |
 |
+ September 2022 Hackathon [Time to Close the Gender Gap]
+
+| Date, Theme & Organiser   | Hackathon Project | Place |
+| :--------: | :-----------: | :--------------: |
+| <p>Sept 2022:</p><p>Time to Close the Gender Gap Hackathon.</p><p>Code Institute</p> | <p><a href="https://github.com/GrumpyRobot21/Catchmoji"><img src="https://github.com/GrumpyRobot21/Hackathon-Repo/blob/main/images/index.html.jpg" width=800px></a></p><p>CatchMoji!</p>| <a href="https://api.eu.badgr.io/public/assertions/DrUBzmvCRE2lK9iLxEe-kQ?identity__email=joenormal79%40gmail.com"></a> |
+| 
 
 
 
