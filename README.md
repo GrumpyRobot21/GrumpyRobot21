@@ -56,7 +56,7 @@ I have participated in the following code institute hackathons. These were a fab
 
 | Date, Theme & Organiser   | Hackathon Project | Place |
 | :--------: | :-----------: | :--------------: |
-| <p>Sept 2022:</p><p>Time to Close the Gender Gap Hackathon.</p><p>Code Institute</p> | <p><a href="https://github.com/GrumpyRobot21/Catchmoji"><img src="https://github.com/GrumpyRobot21/Hackathon-Repo/blob/main/images/index.html.jpg" width=800px></a></p><p>CatchMoji!</p>| <a href="https://api.eu.badgr.io/public/assertions/DrUBzmvCRE2lK9iLxEe-kQ"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/DrUBzmvCRE2lK9iLxEe-kQ/image"></a> | 
+| <p>Sept 2022:</p><p>Time to Close the Gender Gap Hackathon.</p><p>Code Institute</p> | <p><a href="https://github.com/GrumpyRobot21/Catchmoji"><img src="https://github.com/GrumpyRobot21/Hackathon-Repo/blob/main/images/index.html.jpg" width=800px></a></p><p>My Code Journey</p>| <a href="https://api.eu.badgr.io/public/assertions/DrUBzmvCRE2lK9iLxEe-kQ"><img  src="https://api.eu.badgr.io/public/assertions/DrUBzmvCRE2lK9iLxEe-kQ/image"></a> | 
 
 
 
